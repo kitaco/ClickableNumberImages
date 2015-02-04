@@ -1,0 +1,9 @@
+C:\Users\Ki\Google Drive\Programming Fundamentals\ClickableNumberImages\ClickableNumberImages\bin\Debug\ClickableNumberImages.exe.config
+C:\Users\Ki\Google Drive\Programming Fundamentals\ClickableNumberImages\ClickableNumberImages\bin\Debug\ClickableNumberImages.exe
+C:\Users\Ki\Google Drive\Programming Fundamentals\ClickableNumberImages\ClickableNumberImages\bin\Debug\ClickableNumberImages.pdb
+C:\Users\Ki\Google Drive\Programming Fundamentals\ClickableNumberImages\ClickableNumberImages\obj\Debug\ClickableNumberImages.csprojResolveAssemblyReference.cache
+C:\Users\Ki\Google Drive\Programming Fundamentals\ClickableNumberImages\ClickableNumberImages\obj\Debug\ClickableNumberImages.Form1.resources
+C:\Users\Ki\Google Drive\Programming Fundamentals\ClickableNumberImages\ClickableNumberImages\obj\Debug\ClickableNumberImages.Properties.Resources.resources
+C:\Users\Ki\Google Drive\Programming Fundamentals\ClickableNumberImages\ClickableNumberImages\obj\Debug\ClickableNumberImages.csproj.GenerateResource.Cache
+C:\Users\Ki\Google Drive\Programming Fundamentals\ClickableNumberImages\ClickableNumberImages\obj\Debug\ClickableNumberImages.exe
+C:\Users\Ki\Google Drive\Programming Fundamentals\ClickableNumberImages\ClickableNumberImages\obj\Debug\ClickableNumberImages.pdb
